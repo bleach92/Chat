@@ -1,4 +1,4 @@
 Disposable Chat
 ===============================================================================================
 
-Chat using Ajax
+The goal of the chat is to be disposable.
